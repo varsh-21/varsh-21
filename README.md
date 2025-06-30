@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my GitHub! 👋
 </hr>
-I'm ** Varshitha BR ! **, a passionate Software Engineer and AI enthusiast. I love building innovative full-stack and AI-driven applications while exploring the latest in data science and automation technologies.
+I'm <span style="text-transform:uppercase;">Varshitha BR</span> , a passionate Software Engineer and AI enthusiast. I love building innovative full-stack and AI-driven applications while exploring the latest in data science and automation technologies.
 
 ## About Me
 ## 🚀 A passionate Full Stack Developer with automation testing skills  
