@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/varshitha-br1/) | [Email](mailto:varshithabr2@gmail.com)
 ## 📬 Get in Touch
 
-**Got something in mind? Hit me up!**
+**Got something in mind? Hit me up!**<br>
 [![Email](https://img.shields.io/badge/Email-varshithabr2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithabr2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varshitha_BR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshitha-br1/)
 
