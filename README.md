@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 - 🧪 Cypress with BDD and POM
 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Freshdesk-00B8A9?style=for-the-badge&logo=freshdesk&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Agile%20%26%20Scrum-FF9E0F?style=for-the-badge" />
+
 <!--Skilled in writing efficient, clean, and scalable code in Python, Java, and JavaScript/TypeScript for web, backend, and automation.-->
 
 ## ⚛️ Frontend Frameworks & Libraries
@@ -103,4 +105,4 @@ Python Java JavaScript TypeScript React Redux Node.js Express.js Spring Boot Fas
 ## ☁️ DevOps & Cloud
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <!--Deploying applications and services using AWS cloud infrastructure and tools.-->
--->
+
