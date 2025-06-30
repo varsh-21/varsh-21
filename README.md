@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 I'm  Varshitha BR
+## Welcome to my GitHub! 👋
+</hr>
+I'm ** Varshitha BR ! **, a passionate Software Engineer and AI enthusiast. I love building innovative full-stack and AI-driven applications while exploring the latest in data science and automation technologies.
 
 ## About Me
 ## 🚀 A passionate Full Stack Developer with automation testing skills  
