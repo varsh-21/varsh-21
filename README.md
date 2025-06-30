@@ -66,9 +66,7 @@ Here are some ideas to get you started:
 ## ☁️ Cloud, DevOps & API Development
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VTEX_IO-E82C4F?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
-## ☁️ DevOps & Cloud
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<!--Deploying applications and services using AWS cloud infrastructure and tools.-->
+
 
 ## 📊 Analytics & Optimization
 <img src="https://img.shields.io/badge/Lighthouse-AUDITS-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/GTM-Tag_Manager-3E8BFF?style=for-the-badge&logo=googletagmanager&logoColor=white" /> <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />
@@ -101,4 +99,8 @@ Python Java JavaScript TypeScript React Redux Node.js Express.js Spring Boot Fas
 
 ## ✨ Top Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=varsh-21&repo=magento-signup-automation&theme=radical)](https://github.com/varsh-21/magento-signup-automation)
+
+## ☁️ DevOps & Cloud
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<!--Deploying applications and services using AWS cloud infrastructure and tools.-->
 -->
