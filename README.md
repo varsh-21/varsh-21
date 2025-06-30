@@ -16,20 +16,19 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm Varshitha BR
 
 ## About Me
-🚀 A passionate Full Stack Developer with automation testing skills  
+## 🚀 A passionate Full Stack Developer with automation testing skills  
 **Experience** : Having recently worked with startups and product-based companies, I’ve led multiple projects following the AGILE methodology ⚙️including daily scrums, sprint retrospectives, and iterative delivery cycles. My experience spans UI development 🎨, e-commerce platforms 🛒, and full-stack projects, where I’ve driven both front-end and back-end implementation, where I contributed to developing efficient solutions.
 
 **Interests**: My curiosity drives me to dive into full-stack development, AI/ML, and Data Science, always constantly improving and evolving my skills.
 
 **Goals**: I'm excited to collaborate on impactful projects and continuously grow as a developer.
 
-🚀 A passionate Full Stack Developer with automation testing skills  
-🌐 Working on Cypress, React, FastAPI, and Terraform  
+<!--🌐 Working on Cypress, React, FastAPI, and Terraform  -->
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/varshitha-br1/) | [Email](mailto:varshithabr2@gmail.com)
 
 ## 🔧 Tech Stack
 - ⚛️ ReactJS
--  VTEX 
+-  <img src="https://cdn.worldvectorlogo.com/logos/vtex-1.svg" alt="VTEX" width="100" height="40"/> VTEX 
 - 🐍 FastAPI, Docker, AWS
 - 💾 PostgreSQL & MySQL
 - ☁️ Terraform for Infra-as-Code
@@ -61,8 +60,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <!--Deploying applications and services using AWS cloud infrastructure and tools.-->
 
+## 📊 Analytics & Optimization
+<img src="https://img.shields.io/badge/Lighthouse-AUDITS-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/GTM-Tag_Manager-3E8BFF?style=for-the-badge&logo=googletagmanager&logoColor=white" /> <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />
+
+## 🧠 Data Science & Visualization
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-0f4c81?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+
 ## 🧪 Testing & Automation
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Mockito-FFDE57?style=for-the-badge&logo=java&logoColor=black" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> 
+<!--
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Mockito-FFDE57?style=for-the-badge&logo=java&logoColor=black" />-->
+
+
 <!--Testing frontend and backend flows using tools like Cypress, Selenium, and Jest; Unit testing with Mockito. -->
 <!--
 Technical Skills
