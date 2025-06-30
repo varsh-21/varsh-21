@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Hi there 👋 I'm ## Varshitha BR
+## Hi there 👋 I'm  Varshitha BR
 
 ## About Me
 ## 🚀 A passionate Full Stack Developer with automation testing skills  
