@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 
 🚀 A passionate Full Stack Developer with automation testing skills  
 🌐 Working on Cypress, React, FastAPI, and Terraform  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/varshitha-br1/) | [Email](mailto:varshithabr2@gmail.com)
+
+## 🔧 Tech Stack
+- ⚛️ ReactJS
+-  VTEX 
+- 🐍 FastAPI, Docker, AWS
+- 💾 PostgreSQL & MySQL
+- ☁️ Terraform for Infra-as-Code
+- 🧪 Cypress with BDD and POM
+
+Technical Skills
+Python Java JavaScript TypeScript React Redux Node.js Express.js Spring Boot FastAPI scikit-learn TensorFlow MySQL MongoDB AWS Jest Cypress Selenium Mockito
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
