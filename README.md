@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 **Goals**: I'm excited to collaborate on impactful projects and continuously grow as a developer.
 
-<!--🌐 Working on Cypress, React, FastAPI, and Terraform  -->
+<!--🌐 Working on Cypress, React, FastAPI, and Terraform
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/varshitha-br1/) | [Email](mailto:varshithabr2@gmail.com)
+-->
 ## 📬 Get in Touch
 
 **Got something in mind? Hit me up!**<br>
