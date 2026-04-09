@@ -14,10 +14,6 @@
 ## Welcome to my GitHub! 👋
 </hr>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="400"/>
-</p>
-
  <p><strong>I'm <span style="text-transform:uppercase;">Varshitha</span></strong>, a passionate Software Engineer and AI enthusiast.</p>
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Hey+there!+👋;I'm+Varshitha+BR;QA+Automation+Engineer)
@@ -29,6 +25,10 @@
 ## About Me
 ## 🚀 A passionate Full Stack Developer with automation testing skills  
 **Experience** : Having recently worked with startups and product-based companies, I’ve led multiple projects following the AGILE methodology ⚙️including daily scrums, sprint retrospectives, and iterative delivery cycles. My experience spans UI development 🎨, e-commerce platforms 🛒, and full-stack projects, where I’ve driven both front-end and back-end implementation, where I contributed to developing efficient solutions.
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExengwdXl6NXV1cnJ3NDBzYXZhZm53Z2UwMmwwcXEwdHFza3V3OWNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif" width="400"/>
+</p>
 
 **Interests**: My curiosity drives me to dive into full-stack development, AI/ML, and Data Science, always constantly improving and evolving my skills.
 
