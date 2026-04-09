@@ -17,6 +17,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway+semiBold&weight=600&size=26&pause=1000&color=4493F8&center=true&vCenter=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Varshitha+%F0%9F%92%BB;Full+Stack+Engineer!+%F0%9F%92%BB;React+%C2%B7+NodeJS+%C2%B7+JavaScript+Next.JS;Building+WebSites+&+Apps+UI+Performance+Focused+automation+and+web+apps)
 
  <p><strong>I'm <span style="text-transform:uppercase;">Varshitha</span></strong>, a passionate Software Engineer and AI enthusiast.</p>
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Hey+there!+👋;I'm+Varshitha+BR;QA+Automation+Engineer)
+ 
   <p>I love building innovative <strong>full-stack</strong> and <strong>AI-driven</strong> applications while exploring the latest in <strong>data science</strong> and <strong>automation</strong> technologies.</p>
   
 ![Profile Views](https://komarev.com/ghpvc/?username=varsh-21)
