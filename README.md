@@ -14,7 +14,9 @@
 ## Welcome to my GitHub! 👋
 </hr>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway+semiBold&weight=600&size=26&pause=1000&color=4493F8&center=true&vCenter=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Varshitha+%F0%9F%92%BB;Full+Stack+Engineer!+%F0%9F%92%BB;React+%C2%B7+NodeJS+%C2%B7+JavaScript+Next.JS;Building+WebSites+&+Apps+UI+Performance+Focused+automation+and+web+apps)
+<p align="center">
+  <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="400"/>
+</p>
 
  <p><strong>I'm <span style="text-transform:uppercase;">Varshitha</span></strong>, a passionate Software Engineer and AI enthusiast.</p>
  
