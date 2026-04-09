@@ -2,6 +2,7 @@
 <!--
 **varsh-21/varsh-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway+semiBold&weight=600&size=26&pause=1000&color=4493F8&center=true&vCenter=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Varshitha+%F0%9F%92%BB;Full+Stack+Engineer!+%F0%9F%92%BB;React+%C2%B7+NodeJS+%C2%B7+Next.JS;Building+test+automation+and+web+apps)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
