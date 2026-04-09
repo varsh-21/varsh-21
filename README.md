@@ -18,6 +18,8 @@
 
  <p><strong>I'm <span style="text-transform:uppercase;">Varshitha</span></strong>, a passionate Software Engineer and AI enthusiast.</p>
   <p>I love building innovative <strong>full-stack</strong> and <strong>AI-driven</strong> applications while exploring the latest in <strong>data science</strong> and <strong>automation</strong> technologies.</p>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=varsh-21)
 
 ## About Me
 ## 🚀 A passionate Full Stack Developer with automation testing skills  
