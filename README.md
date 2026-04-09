@@ -14,11 +14,11 @@
 ## Welcome to my GitHub! 👋
 </hr>
 
-<!-- <p><strong>I'm <span style="text-transform:uppercase;">Varshitha</span></strong>, -->
+<!--<p><strong>I'm <span style="text-transform:uppercase;">Varshitha</span></strong>,-->
   
   <p>A passionate Software Engineer and AI enthusiast.</p>
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Hey+there!+👋;I'm+Varshitha+BR;QA+Automation+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway+semiBold&weight=600&size=26&pause=1000&color=4493F8&center=true&vCenter=true&width=1000&lines=Hey+there!+%F0%9F%91%8B+I'm+Varshitha+%F0%9F%92%BB;Full+Stack+Engineer!+%F0%9F%92%BB;React+%C2%B7+NodeJS+%C2%B7+Next.JS;Building+test+automation+and+web+apps)
  
   <p>I love building innovative <strong>full-stack</strong> and <strong>AI-driven</strong> applications while exploring the latest in <strong>data science</strong> and <strong>automation</strong> technologies.</p>
   
